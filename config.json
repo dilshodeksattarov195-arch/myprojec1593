@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configconnect",
+        "uuid": 7807293,
+        "checksum": "mmjwql"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
